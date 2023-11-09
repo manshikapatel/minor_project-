@@ -1,0 +1,5 @@
+cmake
+dlib
+face-Recognition
+cvzone
+opencv-python==4.5.4.60
