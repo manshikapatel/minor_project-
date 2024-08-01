@@ -1,1 +1,1 @@
-# minor_project-
+# Face Recognition Based Attendance System 
